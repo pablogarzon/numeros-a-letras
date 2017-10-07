@@ -1,5 +1,3 @@
-package examen;
-
 import java.util.Scanner;
 
 public class Convertidor {
